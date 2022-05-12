@@ -1,5 +1,5 @@
 
-public class ex003_quadrilatero {
+public class ex004_quadrilatero {
 
 	public class QuadriLatero {
 
@@ -23,5 +23,5 @@ public class ex003_quadrilatero {
 		QuadriLatero.area(7, 8, 9);
 		
 	}
-
+ 
 }
